@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Third Lab</string>
+    <string name="print_text">Введите слово.</string>
+    <string name="delete">Удалить</string>
+    <string name="translate">Ру/En</string>
+    <string name="add">Добавить</string>
+    <string name="ru">Ру.</string>
+    <string name="en">En.</string>
+    <string name="authorize">Авторизироваться</string>
+    <string name="password">Пароль</string>
+    <string name="login">Логин</string>
+</resources>
