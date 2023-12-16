@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">SevenLab</string>
+    <string name="print_text">Введите слово.</string>
+    <string name="delete">Удалить</string>
+    <string name="translate">Ру/Ан</string>
+    <string name="add">Добавить</string>
+    <string name="ru">Ру.</string>
+    <string name="en">Ан.</string>
+    <string name="authorize">Авторизироваться</string>
+    <string name="password">Пароль</string>
+    <string name="login">Логин</string>
+    <string name="locale">Язык(Ру)</string>
+    <string name="enter_login">Введите логин!</string>
+    <string name="enter_password">Введите пароль!</string>
+    <string name="wrong_data">Неверный пароль или логин!</string>
+    <string name="profile_already_exist">Профиль с таким логином уже существует!</string>
+    <string name="profile_not_exist">Профиль с таким логином не существует!</string>
+    <string name="intent">Привет из авторизации!</string>
+    <string name="sign_up">Зарегестрироваться</string>
+    <string name="delete_user">Удалить пользователя</string>
+    <string name="change_password">Изменить пароль</string>
+    <string name="profile_deleted">Профиль удален</string>
+    <string name="password_changed">Пароль изменен</string>
+    <string name="profile_registered">Профиль зарегестрирован</string>
+</resources>

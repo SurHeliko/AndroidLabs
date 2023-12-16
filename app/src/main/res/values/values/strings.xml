@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">SixLab</string>
+    <string name="print_text">Enter a word.</string>
+    <string name="delete">Delete</string>
+    <string name="translate">Ru/En</string>
+    <string name="add">Add</string>
+    <string name="ru">Ru.</string>
+    <string name="en">En.</string>
+    <string name="authorize">Sign in</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="locale">Language(En)</string>
+    <string name="enter_login">Enter login!</string>
+    <string name="enter_password">Enter password!</string>
+    <string name="wrong_data">Wrong password or login!</string>
+    <string name="profile_already_exist">Profile with this login already exist!</string>
+    <string name="profile_not_exist">Profile with this login not exist!</string>
+    <string name="intent">Hello from authorization!</string>
+    <string name="sign_up">Sign up</string>
+    <string name="delete_user">Delete user</string>
+    <string name="change_password">Change password</string>
+    <string name="profile_deleted">Profile is deleted</string>
+    <string name="password_changed">Password is changed</string>
+    <string name="profile_registered">Profile is registered</string>
+</resources>
