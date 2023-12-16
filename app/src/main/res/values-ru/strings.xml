@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FourthLab</string>
+    <string name="print_text">Введите слово.</string>
+    <string name="delete">Удалить</string>
+    <string name="translate">Ру/Ан</string>
+    <string name="add">Добавить</string>
+    <string name="ru">Ру.</string>
+    <string name="en">Ан.</string>
+    <string name="authorize">Авторизироваться</string>
+    <string name="password">Пароль</string>
+    <string name="login">Логин</string>
+    <string name="locale">Язык(Ру)</string>
+    <string name="enter_login">Введите логин!</string>
+    <string name="enter_password">Введите пароль!</string>
+    <string name="wrong_password">Пароль не верный!</string>
+    <string name="profile_not_exist">Профиля с таким именем не существует!</string>
+    <string name="intent">Привет из авторизации!</string>
+</resources>
